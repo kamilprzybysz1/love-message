@@ -6,8 +6,8 @@ export default function LoveMessage() {
         <img 
           src="/heart.png" 
           alt="Heart"
-	  width:"360"
-	  height"360"
+	  width="360"
+	  height="360"
           className="w-32 h-32 mx-auto mt-4"
         />
       </div>
